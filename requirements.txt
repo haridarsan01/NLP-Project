@@ -1,0 +1,5 @@
+nltk
+pandas
+scikit-learn
+streamlit 1.25.0
+matplotlib
