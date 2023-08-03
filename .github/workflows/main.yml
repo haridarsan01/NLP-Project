@@ -28,4 +28,4 @@ jobs:
 
           HF_TOKEN: ${{ secrets. HF_TOKEN }}
 
-        run: git push https://haridarsan01: SHF_TOKEN@huggingface.co/spaces/haridarsan01/MAGIC-PENCIL main
+        run: git push --force https://haridarsan01: SHF_TOKEN@huggingface.co/spaces/haridarsan01/MAGIC-PENCIL main
