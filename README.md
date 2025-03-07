@@ -1,5 +1,5 @@
-# MAGIC-PENCIL--KITE
-title: MAGIC PENCIL
+# NLP PROJECT
+title: NLP
 emoji: 😻
 colorFrom: indigo
 colorTo: green
